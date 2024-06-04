@@ -2,3 +2,4 @@ hello how are you
 i am practcing git and want to become an amazing software engineer
 i am currently learning web development
 today i worked with firebase firestore
+lets learn new things
